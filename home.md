@@ -2,13 +2,13 @@
 title: Introducing Atlas
 description: A short and formal getting-to-know Atlas
 published: true
-date: 2026-04-27T03:19:09.333Z
+date: 2026-05-09T14:19:20.863Z
 tags: intro, introduction, basics, hpc, atlas
 editor: markdown
 dateCreated: 2026-04-09T09:18:28.161Z
 ---
 
-# About Atlas
+# About Atlas hi this is saleha
 Atlas is the name of the High Performance Computation (HPC) Cluster at the College of Aeronautical Engineering (CAE), NUST. It facilitates multiple users (mainly students) connected across the campus network to run their jobs remotely. The 'jobs' here mainly target AI and Machine Learning. 
 
 ## High Performace Computing
