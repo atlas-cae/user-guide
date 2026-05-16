@@ -1,6 +1,7 @@
 # Contributing to Atlas user-guide
 
-This repository contains user-facing documentation for the Atlas GPU/HPC cluster.
+This repository contains user-facing documentation for the Atlas GPU/HPC
+cluster.
 
 ## Contribution workflow
 
@@ -48,4 +49,5 @@ Bad:
 
 ## Security rule
 
-Never commit secrets, passwords, tokens, private keys, MUNGE keys, database credentials, VPN credentials, or internal credentials.
+Never commit secrets, passwords, tokens, private keys, MUNGE keys,
+database credentials, VPN credentials, or internal credentials.
