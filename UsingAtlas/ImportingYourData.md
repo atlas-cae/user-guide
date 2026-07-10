@@ -2,7 +2,7 @@
 title: Importing Your Data
 description: Copy your datasets and your python scripts
 published: true
-date: 2026-04-27T03:24:29.237Z
+date: 2026-07-10T17:21:26.715Z
 tags: datasets, scripts, copying, scp, sftp
 editor: markdown
 dateCreated: 2026-04-19T16:19:14.729Z
@@ -57,5 +57,5 @@ mkdir animals
 ## Summing Up
 This does it for creating a copy of your files on Atlas. You are ready to train the model now.
 
-Next: [Submitting Your First Job](/UsingAtlas/SubmittingYourFirstJob)
+Next: [Available Software](/UsingAtlas/AvailableSoftware)
 
