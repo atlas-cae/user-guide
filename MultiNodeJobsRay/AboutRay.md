@@ -2,7 +2,7 @@
 title: About Ray
 description: Introducing Ray as means to scale your code efficiently.
 published: true
-date: 2026-07-10T14:13:13.793Z
+date: 2026-07-10T14:15:09.232Z
 tags: slurm, ray, scaling, multi-node, distributed processing
 editor: markdown
 dateCreated: 2026-07-10T14:13:13.793Z
@@ -37,4 +37,4 @@ Currently, Atlas provides **Ray Data**, **Ray Train** and **Ray Tune**. Other pr
 ## Summing Up
 By introducing Ray to Atlas, we provide means to our users to easily scale their code. Atlas is, however, not your standard Ray cluster - it uses Ray through Slurm. Users spin up their own Ray clusters against their jobs which dies when the job dies. This provision is custom to Atlas and require special scripting. Follow along to learn how to use Ray with Slurm.
 
-Next: 
+Next: [Scripting For Ray](/MultiNodeJobsRay/ScriptingForRay)
