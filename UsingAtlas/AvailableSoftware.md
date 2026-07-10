@@ -2,7 +2,7 @@
 title: Available Software
 description: Get to know what Atlas offers pre-built
 published: true
-date: 2026-07-10T17:36:46.227Z
+date: 2026-07-10T17:37:14.352Z
 tags: software, python, lmod, modules, pytorch, tensorflow
 editor: markdown
 dateCreated: 2026-07-10T17:14:34.645Z
@@ -64,4 +64,4 @@ It is important to know what an HPC offers pre-built as it removes the need to d
 
 We advise users to take advantage of these provisions and demand more if needed. 
 
-Next: 
+Next: [Write Your First Script](/TheSlurmScript/WriteYourFirstScript)
