@@ -2,7 +2,7 @@
 title: Write Your First Script
 description: Understand how the slurm scripts work
 published: true
-date: 2026-06-22T04:48:10.183Z
+date: 2026-07-10T17:18:50.095Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T04:48:10.183Z
@@ -87,6 +87,22 @@ module purge
 This helps clear all variables and paths and cleans up the space for you.
 
 Once you have loaded the modules, you can make environments within them for additional libary installations.
+
+### Optional: Stack Your Own Environment
+Missing libraries that we did not provide pre-built? Don't worry, you can stack on top of the existing modules. This way you use the existing environments for Pytorch/Tensorflow and include all the additionaly libraries for your use case in your custom environment.
+
+```bash
+python -m venv --system-site-packages my_stacked_env
+source my_stacked_env/bin/activate
+
+pip install libraryname
+```
+
+You only need to include this once in your script, run it and it is installed. To just activate your custom environment (after you are done with installations), include,
+
+```bash
+source my_stacked_env/bin/activate
+```
 
 ## Run Your Script
 Finally, run your script,
