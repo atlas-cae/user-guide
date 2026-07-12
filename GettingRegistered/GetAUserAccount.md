@@ -2,7 +2,7 @@
 title: Get a User Account
 description: To use Atlas, you must have a user account.
 published: true
-date: 2026-04-27T03:19:58.998Z
+date: 2026-07-12T02:07:13.098Z
 tags: user, accounts, registration, register
 editor: markdown
 dateCreated: 2026-04-19T15:09:11.426Z
@@ -16,10 +16,9 @@ Atlas is not openly accessible to any user. The following conditions apply,
 Getting on the CAE network is easy. Connect to the institution's Wi-Fi/Wired Network on campus, in the libary or in your blocks. You'll be instantly able to access this page and login to the cluster. For the second condition, getting a verified account, read on.
 
 ## Getting a Verified Account
-All individuals who sign up for an account on Atlas's official manual (this site) are automatically provided an account on the HPC. Follow along,
-1. Navigate to the top-right corner on the site and click on the *profile* icon.
-2. Sign up with your **institution email**. Other domains are not allowed. 
-3. Wait for a verification e-mail. This email will give you your credentials for login.
+You can register for Atlas by filling out a [form](https://forms.cloud.microsoft/pages/responsepage.aspx?id=LqsRFStQLU69aPZ59Um1ooxwxWTgDtdFrLS9DAJATa5UN1BUVTMxS1lWNzlMVjJTQ1VIWktSSlFTRCQlQCN0PWcu&route=shorturl). You may also join our [Atlas Users' Teams](https://teams.microsoft.com/l/team/19%3Aemq1IfOzDisolFbwhyXpc6OJhyTDGVHR4waGCWz-k5o1%40thread.tacv2/conversations?groupId=9cfc21e3-1607-486c-8d88-4d5ad4b586ff&tenantId=1511ab2e-502b-4e2d-bd68-f679f549b5a2)
+
+A verification email will give you your login credentials.
 
 ## Personalizing your Account
 Once you get your credentials, get ready to login. On your terminal,
